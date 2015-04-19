@@ -75,7 +75,7 @@ core.cljsの-mainに追加
 
 ----
 
-## core.asyncを使って3秒後にネイティブのダイアログを表示
+## core.asyncを使って5秒後にネイティブのダイアログを表示
 
 project.cljに追加
 
